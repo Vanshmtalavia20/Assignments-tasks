@@ -1,0 +1,156 @@
+	1) What are the benefits of using CSS?  
+
+   -     There are many benefits of using CSS and some of them are as follows:
+
+   *      We   can  design  layout  lay  out  of  the  page  in  the  way  we  want.
+
+   *      We   can  colour background  and  font . 
+
+   *      We  can  control   height, width  and  dimensions  in  our  taste.
+
+   *      Better  User  Experience  CSS   not  only  makes  web  pages  easy  on  the eye  ,  it  also  allows  for user  - friendly  formatting.
+
+
+	2) What are the disadvantages of CSS?
+	
+   -  Following are the disadvantages of using CSS:
+
+   * Cross  browser  issues  implementing  initial  CSS  changes  on  a  website  is    accessible  on  the  developer's   end   only . 
+
+  *  Confusing  Due  to  its  Many Levels, that’s why it's complicated  for  non-developers  and  beginners.
+
+  * Different  layout  display.
+
+
+	3) What is the difference between CSS2 and CSS3? 
+
+ Pending.
+
+
+	4) Name a few CSS style components?
+	
+  *  Box Model.
+
+  *  Selectors.
+ 
+ *  Text Effects.
+ 
+ *  Background and Borders.
+
+ *  Text Decorations.
+
+ *  Font-(Weight, Size,)
+
+ *  Box-Padding.
+
+
+
+	5) What do you understand by CSS opacity?
+ 
+    *  CSS  opacity  means  the  degree  to  which  content  behind  an  element  is  hidden.
+
+
+
+	6) How can the background color of an element be changed?
+
+   *   we  can  use  HTML  tag  "background-color"  and  can  give  any  color  we  want.
+
+
+
+	7) How can image repetition of the backup be controlled? 
+
+  *   We  can  control  background  repetition  by  using   "background-repeat property".
+
+	
+	8) What is use of the background-position property?  
+
+  *   "Background-position"  property  is  used  to  set  the  image  starting  in  the  background  where we  want.
+
+
+	9)  Which  Property  controls  the  image  scroll  in  the  background?
+
+  *      "Background-Attachment"  property  is  used  to  control  the  image  scroll  in  the  background.
+
+
+	10)  Why should background and color be used as separate properties? 
+
+  *    Background(color) or  any  other,   is  used  to  give  color  to  background or  whether there  is  an  image.
+
+  *    Color  on  the  other  hand  is  used  to  give  color  to  font  on  the  background  image or  on  the  background  color.
+
+
+	11)  How to  center block elements using CSS1?
+
+  *   We  can  use  "box-padding"  vertically  centered.
+
+  *  We  can  also  use  "Padding"  and  "text  align: center".
+
+
+	12) How  to main the CSS specifications?
+
+  *   CSS  specifications  are  maintained  by  the  World Wide Web Consortium (W3C).
+
+
+	14) What are the ways to integrate CSS as a web page?
+
+  -  4  Ways  to  include  CSS  In  a  web  page :
+
+  *  First  Way  <style> tag.
+  *  Second  Way  <link> tag.
+  *  Third  Way  <Inline  CSS>.
+  *  Fourth  Way  <Importing CSS>.
+
+
+	15) What is embedded style sheets?
+
+   *  Embedded   style   sheet   refer   to   when   you  embed   style    sheet  information   Into   an   HTML   document   using   the <style>   element.
+
+
+	14) What are the external style sheets?
+
+   *  External  style  sheets  are  the  sheets  through  which  we  can  change  the  entire  look  of  the  website.
+
+
+	15) What are the advantages and disadvantages of using external style sheets? 
+
+   *   Pending
+
+
+	16) What is the meaning of the CSS selector?
+   
+   *    CSS  Selectors  used  to  "find(or select)" the  HTML  elements  you  want  to  style  in  the  background.
+
+
+	17) What are the media types allowed by CSS? 
+
+   -   Media  types  allowed  by the  CSS are as follows:
+
+   *  Continuous  or  paged.
+
+   *  Visual, audio, Speech, or tactile.
+   
+   *   grid  or  bitmap.
+
+   *   Interactive. 
+
+
+	18)  What is the rule set?
+
+    *   A  rule  set  is  a  collection  of  the  rules  into  a  group  for  the  distribution  of  an  application.
+
+
+
+  
+
+
+
+
+     
+	
+  
+  
+
+
+
+
+ 
