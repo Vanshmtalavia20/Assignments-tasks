@@ -1,0 +1,28 @@
+1)  What are the new tags added in HTML5?
+
+- Following are the new tags added in HTML5
+
+* <article> 
+*<figure>
+*<footer>
+*<header>
+*<main>
+*<nav>
+*<section>
+
+2) How to embed audio and video in a webpage? 
+
+- The HTML <audio> element is used to embed an audio file on a web page.
+
+- The HTML <video> element is used to embed video file on a web page.
+
+3)  Semantic element in HTML5?
+
+- Semantic element describes its meaning to both browser and developer.
+
+4)  Canvas and SVG tags?
+
+- Canvas tag is used to draw graphics through javascript.
+
+- SVG tag defines the container for SVG graphics.
+
