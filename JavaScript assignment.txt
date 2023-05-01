@@ -1,0 +1,87 @@
+1)  What is JavaScript? 
+
+- Javascript is an object oriented computer programming language is mainly used to create interactive effects within browser itself. 
+
+2)  What is the use of isNaN function? 
+
+- is NAN is used to check whether the given number is an illegal number or not.
+
+3)  What is negative Infinity? 
+
+- In javascript negative infinity means a constant value that is usally describes value that is lowest available.
+
+4)  Which company developed JavaScript? 
+
+- Javascript is a scripting language devloped by "NETSCAPE".
+
+5)  What are undeclared and undefined variables?
+
+- undefined- It means when we have declared variable but, value hasn't assigned.
+- undeclared - It means when we try to access any variable but actually it,s not declared.
+
+6)  Write the code for adding new elements dynamically?
+
+- New elements can be dynamically created in JavaScript with the help of createElement () method.
+
+7)  What is the difference between ViewState and SessionState?
+
+- Sessionstate is only valid for type objects maintained at page level only.
+- viewstate is only visible from single page only and not from multiple pages.
+
+8)  What is === operator? 
+
+- === operator is used to check whether two operands is same or not with checking it,s type whether string , boolean or number type.
+
+9)  How can the style/class of an element be changed?
+
+- we can change style/class of an element by document.getElementByid("anything").style.property="anyfontsize/color /border.......anything"
+
+10) How to read and write a file using JavaScript? 
+
+- The fs.readfile() and rs.writefile() are the methods used to read and write of a file using javascript.
+
+11)  What are all the looping structures in JavaScript?
+
+- There are in total 3 looping structures;
+
+1) FOR LOOP
+
+2) WHILE LOOP
+
+3) DO WHILE LOOP
+
+12)  How can you convert the string of any base to an integer in JavaScript?
+
+- In javascript simply use parseint() to conver string to an integer or use Numberint().
+
+13)  What is the function of the delete operator?
+
+- The delete operator is used to remove a given property from an object.
+
+14)  What are all the types of Pop up boxes available in JavaScript?
+
+-  There are total 4 pop up boxes in javascript; 
+
+-  alert box, prompt box, print box, confirm box 
+
+15)  What is the use of Void (0)? 
+
+- void(0) returns undefined and gives falsy value.
+
+16)  How can a page be forced to load another page in JavaScript? 
+
+-  We can use window.location object to force a page to load another page.
+
+17)  What are the disadvantages of using innerHTML in JavaScript?
+
+- Following are some disadvantages of innerHTML;
+
+1) innerHTML is veryslow and takes so muchtime to load.
+
+2) Breaks document.
+
+3) Replacement is done everywhere.
+
+
+
+- 
